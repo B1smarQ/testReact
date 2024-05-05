@@ -5,7 +5,7 @@ export const why = [
     },
     {
         title:'Он пидорас',
-        name:'начал играть в Insurgency'
+        name:'Играет в Insurgency'
     },
     {
         title:'Он пидорас',
@@ -13,7 +13,7 @@ export const why = [
     },
     {
         title:'Он пидорас',
-        name:'Он терпила'
+        name:'Он работает в МТС'
     },
     {
         title:'Он пидорас',
