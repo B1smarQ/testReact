@@ -9,8 +9,10 @@ function WhyKustikPidor(props){
       <li>
         <h2>
             {props.title}
-      </h2>
-      <p>{props.name}</p>
+        </h2>
+        <p>
+          {props.name}
+        </p>
       </li>
     </ul>
   )
